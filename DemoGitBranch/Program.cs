@@ -14,6 +14,10 @@ namespace DemoGitBranch
             Console.WriteLine("Hello world");
             Console.WriteLine("Hello world");
             Console.WriteLine("Hello world");
+            
+            Console.WriteLine("Beautiful world");
+            Console.WriteLine("Hello, hello world");
+            Console.WriteLine("Hello, hallo world");
         }
     }
 }
